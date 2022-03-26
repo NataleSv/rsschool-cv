@@ -5,28 +5,28 @@
 
 ## *Contacts*
 
-Telegram: NataleSv </br>
-github: [NataleSv](https://github.com/NataleSv) </br>
-discord: NataleSv#6370 </br>
+Telegram: NataleSv  
+github: [NataleSv](https://github.com/NataleSv)  
+discord: NataleSv#6370  
 
 
 ## *Education*
 
 ### University
 
-2010 - 2015 </br>
-Marketing </br>
-***Nizhny Novgorod State University of Architecture, Building and Civil Engineering (NNSUABCE or NNGASU)***
+2010 - 2015  
+Marketing  
+***Nizhny Novgorod State University of Architecture, Building and Civil Engineering (NNSUABCE or NNGASU)***  
 
 ### Courses
 
-2020 - 2021 </br>
-Development and Promotion of Web Projects </br>
-***Computer Academy STEP*** 
+2020 - 2021  
+Development and Promotion of Web Projects  
+***Computer Academy STEP***  
 
-2021 </br>
-Basics of frontend development </br>
-***Innopolis University***
+2021  
+Basics of frontend development  
+***Innopolis University***  
 
 
 ## *Skills*
