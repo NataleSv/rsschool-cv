@@ -42,6 +42,12 @@ Basics of frontend development
 
 - *VS Code, IntelliJ IDEA, Figma, Adobe Photoshop, Illustrator, Adobe XD*
 
+
+## *Languages*
+ - Russian - native speaker
+ - English - A2 (B1 in process)
+
+
 ## *Code example*
 
 ```
@@ -66,8 +72,3 @@ function message( el, mess) {
    el.innerHTML = mess;
 }
 ```
-
-## *Languages*
- - Russian - native speaker
- - English - A2 (B1 in process)
- 
