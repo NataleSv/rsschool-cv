@@ -67,7 +67,7 @@ function message( el, mess) {
 }
 ```
 
- ## *Languages*
+## *Languages*
  - Russian - native speaker
  - English - A2 (B1 in process)
  
