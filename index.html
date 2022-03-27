@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>CV</title>
+</head>
+<body>
+    <div class="wrapper">
+            <h1>Natalia Sorokina</h1>
+        <h3>Junior Frontend Developer</h3>
+        
+        <h2>Contacts</h2>
+        <p>Telegram: NataleSv</p>
+        <p>github: NataleSv</p>
+        <p>discord: NataleSv#6370</p>
+        
+        <h2>Education</h2>
+        <h3>University</h3>
+        <p>2010 - 2015</p>
+        <p>Marketing</p>
+        <p>Nizhny Novgorod State University of Architecture, Building and Civil Engineering (NNSUABCE or NNGASU)</p>
+        
+        <h3>Courses</h3>
+        <p>2020 - 2021</p>
+        <p>Development and Promotion of Web Projects</p>
+        <p>Computer Academy STEP</p>
+        
+        <p>2021</p>
+        <p>Basics of frontend development</p>
+        <p>Innopolis University</p>
+        
+        <h2>Skills</h2>
+        <ul>
+            <li>Git</li>
+            <li>HTML5</li>
+            <li>CSS3, SASS/SCSS</li>
+            <li>Bootstrap</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>PHP</li>
+            <li>Laravel</li>
+            <li>SQL</li>
+            <li>VS Code, IntelliJ IDEA, Figma, Adobe Photoshop, Illustrator, Adobe XD</li>
+        </ul>
+        
+        <h2>Languages</h2>
+        <ul>
+            <li>Russian - native speaker</li>
+            <li>English - A2 (B1 in process)</li>
+        </ul>
+        
+        <h2>Code example</h2>
+        
+        <pre>
+            <code>
+            let color = document.getElementById('color').value;
+            let span = document.getElementsByClassName('span');
+            let arr = [];
+            let regexp = /^([a-z]+)$/i; 
+            
+            if (arr.includes(color)) {  
+                    message(span[0], 'already exists')
+                } else if (validate(regexp, color)) {
+                    message(span[0], '')
+                } else {
+                    message(span[0], 'use latin letters')
+                }
+                
+            function validate(regexp, inp) {
+            return regexp.test(inp);
+            }
+            
+            function message( el, mess) {
+            el.innerHTML = mess;
+            }
+        </code>
+        </pre>
+    </div>
+    
+    
+</body>
+</html>
