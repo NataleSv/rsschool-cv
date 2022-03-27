@@ -1,0 +1,12 @@
+.wrapper {
+    padding: 50px;
+
+}
+
+h2 {
+    font-style: italic;
+    border-left: 2px solid rgb(92, 87, 87);
+    padding-left: 10px;
+    color: rgb(70, 66, 66);
+}
+
